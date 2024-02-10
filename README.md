@@ -1,7 +1,7 @@
 # "Todo List API con Python Flask Interactivo" de EduardoHernandezGuzman
 
 ## Un poco de información
-Decimoséptimo proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
+Decimooctavo proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
 
 ## ¿Cómo puedo ejecutarlo?
 
